@@ -1,0 +1,25 @@
+# Projeto Final do Bootcamp do LAMIA
+
+## LAMIA
+
+O Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria (LAMIA) produz tecnologia e conhecimento acadêmico para indústria através de Ciência de Dados e Visão Computacional. Com base no campus da UTFPR em Santa Helena, o LAMIA reúne uma equipe de colaboradores distribuídos por todo o Brasil.
+
+![LAMIA logo](/images/lamia.png)
+
+## Bootcamp e jornada
+
+Ao juntar-se ao laboratório é necessário completar um período de treinamento (bootcamp) e apresentar um projeto final que demonstre suas habilidades e contribuições. Durante esse período, os participantes são considerados novatos e têm um prazo para concluir seu bootcamp. O laboratório atua em diversas áreas, e eu optei por me dedicar à área de Visão Computacional.
+
+## Desafio escolhido
+
+No âmbito do meu projeto final, escolhi um projeto desafiador: desenvolver um modelo de classificação de aeronaves militares com base no conjunto de dados [Military Aircraft Detection Dataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset), disponível no Kaggle.
+
+![Imagem do dataset no Kaggle](/images/dataset.png)
+
+# Resultados
+
+Dediquei duas semanas intensas ao desenvolvimento do projeto, que culminou com a apresentação aos meus colegas do LAMIA. Estou satisfeito em compartilhar que obtive resultados sólidos, com uma taxa de **acurácia de 83.49%** e uma **perda (loss) de 0.6745**, atingindo assim o objetivo principal de classificação das aeronaves. Para uma análise mais detalhada do desempenho do modelo, incluí uma matriz de confusão que fornece insights valiosos.
+
+![matriz_de_confusao.png](/images/matriz_de_confusao.png)
+
+Esses resultados representam uma base promissora para futuras melhorias e aplicações. Assim, continuarei aprimorando minhas habilidades em Visão Computacional e Ciência de Dados no LAMIA.
